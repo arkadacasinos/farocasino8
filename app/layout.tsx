@@ -71,6 +71,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${fr8Serif.variable} ${fr8Sans.variable}`}>
       <head>
+        <meta name="yandex-verification" content="7d7b546c4c3716ce" />
         <meta name="keywords" content="Faro Casino, Фаро казино, Faro Casino зеркало, Фаро казино зеркало, Фаро казино зеркало рабочее, Faro Casino играть, Фаро казино играть, Фаро казино онлайн, Faro Casino официальный, Фаро казино официальный, Faro Casino официальный сайт, Фаро казино официальный сайт" />
         <meta name="author" content="Faro Casino" />
         <meta name="rating" content="general" />
